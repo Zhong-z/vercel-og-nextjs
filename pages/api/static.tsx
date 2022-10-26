@@ -17,6 +17,7 @@ export default function handler() {
           textAlign: 'center',
           alignItems: 'center',
           justifyContent: 'center',
+          fontWeight: 900
         }}
       >
         Hello world!
