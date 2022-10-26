@@ -9,7 +9,7 @@ export default function handler() {
     (
       <div
         style={{
-          fontSize: 128,
+          fontSize: 60,
           background: 'white',
           width: '100%',
           height: '100%',
@@ -17,7 +17,7 @@ export default function handler() {
           textAlign: 'center',
           alignItems: 'center',
           justifyContent: 'center',
-          fontWeight: 900
+          fontWeight: 100
         }}
       >
         Hello world!
